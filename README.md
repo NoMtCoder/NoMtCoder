@@ -1,2 +1,1 @@
-![STACK](https://github-readme-stats.vercel.app/api?username=NoMtCode&show_icons=true&theme=dark)
-![Favorite Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NoMtCoder&layout=compact&theme=dark)
+![내 능력치](https://github-readme-stats.vercel.app/api?username=NoMtCoder&show_icons=true&theme=dark&bg_color=00000000&border_radius=10)
